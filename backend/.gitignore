@@ -1,0 +1,21 @@
+
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+.env
+
+# Backup files # 
+*.bak 
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+venv
