@@ -8,7 +8,8 @@ __pycache__
 db.sqlite3
 media
 .env
-
+/migrations
+migrations
 # Backup files # 
 *.bak 
 

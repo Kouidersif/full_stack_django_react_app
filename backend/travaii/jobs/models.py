@@ -42,4 +42,4 @@ class JobApplication(models.Model):
     request= models.CharField(max_length=10, choices=status, default='Pending' , null=True)
     response_message = models.TextField(null=True, blank=True)
     def __str__(self):
-        return "New job application"
+        return f"Job Application for {job.title}"
